@@ -13,7 +13,7 @@ if(firstVote<=6){
 }
 if(secondVote >= 9){
     promotersCount = promotersCount+1;
-  }
+}
 if(secondVote<=6){
       detractorsCount= detractorsCount+1;
   }
