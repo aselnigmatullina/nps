@@ -1,6 +1,6 @@
 const firstVote=10; //оценка первого
 const secondVote=10; //оценка второго
-const thirdVote=10;
+const thirdVote=1;
 
 let promotersCount = 0;
 let detractorsCount=0;
